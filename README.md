@@ -1,4 +1,4 @@
-# Online-News-Popularity
+# News-Popularity-Prediction
 
 Real World Big Data Problem
 
